@@ -44,7 +44,8 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 
 
 
-
+  <p></p>
+  
 # <h2> Etapas:
 
 <blockquote>
