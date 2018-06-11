@@ -26,10 +26,7 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 
 <blockquote>
   <p>
-  <table>
-    <tr>
-
-  </table>
+ 
 <a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/2aa787cf_nohash_0.png" height="200" width="200" ></a>
 
 <a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/2aa787cf_nohash_1.png" height="200" width="200" ></a>
