@@ -7,7 +7,12 @@ Nome: Liz Huancapaza Hilasaca
 N.USP: 10423932
 
 # <h2> Projeto: Extração de caracterı́sticas para classificação de áudios.
-   O objetivo deste projeto é implementar, comparar e conhecer as vantagens dos métodos existentes para descrever características baseadas em cor e textura para processar imagens geradas desde arquivos de audio .wav.
+   <blockquote>
+  <p>
+    O objetivo deste projeto é implementar, comparar e conhecer as vantagens dos métodos existentes para descrever características baseadas em cor e textura para processar imagens geradas desde arquivos de audio .wav.
+  </p>
+  <p></p>
+</blockquote>
 ______________________________________________________________________________
 
 Imagens: 
@@ -16,13 +21,13 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 
 
 
-![Espectrograma gerado a partir do audio 0](/imagens/2aa787cf_nohash_0.png)
-Format: ![Alt Text](url)
+![Espectrograma gerado a partir do audio 0](/imagens/2aa787cf_nohash_0.png"
+width="200" height="400"
 
 ![Espectrograma gerado a partir do audio 1](/imagens/2aa787cf_nohash_1.png)
 Format: ![Alt Text](url)
 
-
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 
 
@@ -50,3 +55,7 @@ Etapas:
     
         * Co-ocurrence Matrix
 3. Finalmente para medir a qualidade empregarei a acurácia de classificação.
+
+
+
+@LizHuancapaza :+1: 
