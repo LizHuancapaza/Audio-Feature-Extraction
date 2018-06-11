@@ -1,5 +1,5 @@
-﻿# Audio-Feature-Extraction
-Projeto para Processamento de imagem.
+﻿
+# This is an <h1> tag Projeto para Processamento de imagem.
 ______________________________________________________________________________
 
 Nome: Liz Huancapaza Hilasaca
@@ -30,6 +30,7 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 
 
 
+
 Imagens de database Corel-1k
 
 ______________________________________________________________________________
@@ -39,8 +40,8 @@ Etapas:
 1. Gerar os Espectrogramas (Imagens): Para gerar os espectrogramas vou empregar a transformada de furier e escalas logarı́tmicas para melhorar a visualização dos detalhes do sonido (palavra falada) no espectrograma. Depois teremos como resultado uma imagem com formato: .png 
 
 2. Empregar métodos descritores de cor e textura.
-    (a) Descritores de cor
-          i. Border/Interior Classification (BIC)
-    (b) Descritores de textura
-          i. Co-ocurrence Matrix
+    * Descritores de cor
+          * Border/Interior Classification (BIC)
+    * Descritores de textura
+          * Co-ocurrence Matrix
 3. Finalmente para medir a qualidade empregarei a acurácia de classificação.
