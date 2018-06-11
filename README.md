@@ -28,8 +28,13 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 </blockquote>
 
 
+
+
+<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/2aa787cf_nohash_0.png" align="left" height="48" width="48" ></a>
+
  ![Espectrograma gerado a partir do audio 0](/imagens/2aa787cf_nohash_0.png")
 
+(http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz).
 
 
 
