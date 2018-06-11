@@ -1,12 +1,12 @@
 ﻿
-# <h1> Projeto para Processamento de imagem.
+# <h1> Projeto para Processamento de imagem
 ______________________________________________________________________________
 
 Nome: Liz Huancapaza Hilasaca
 
 N.USP: 10423932
 
-Projeto: Extração de caracterı́sticas para classificação de áudios.
+# <h2> Projeto: Extração de caracterı́sticas para classificação de áudios.
    O objetivo deste projeto é implementar, comparar e conhecer as vantagens dos métodos existentes para descrever características baseadas em cor e textura para processar imagens geradas desde arquivos de audio .wav.
 ______________________________________________________________________________
 
@@ -16,8 +16,11 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 
 
 
+![Espectrograma gerado a partir do audio 0](/images/2aa787cf_nohash_0.png)
+Format: ![Alt Text](url)
 
-
+![Espectrograma gerado a partir do audio 1](/images/2aa787cf_nohash_1.png)
+Format: ![Alt Text](url)
 
 
 
