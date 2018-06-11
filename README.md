@@ -17,7 +17,7 @@ N.USP: 10423932
  <blockquote>
 
   <p>
-Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um conjunto de arquivos de áudio .wav, cada um contendo uma única palavra falada em inglês. Estas palavras são faladas por uma variedade de falantes diferentes. O conjunto de dados tem aproximadamente 65000 audios, organizados em pastas por palavras: "Yes", "No", "Up", "Down", "Left", "Right", "On", "Off", "Stop", "Go", "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", and "Nine". Dataset [link aqui!](http://download.tensorflow.org/data/speech_commands_v0.01.tar.)
+Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um conjunto de arquivos de áudio .wav, cada um contendo uma única palavra falada em inglês. Estas palavras são faladas por uma variedade de falantes diferentes. O conjunto de dados tem aproximadamente 65000 audios, organizados em pastas por palavras: "Yes", "No", "Up", "Down", "Left", "Right", "On", "Off", "Stop", "Go", "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", and "Nine". Dataset [link aqui](http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz)
 
   </p>
   <p></p>
@@ -27,13 +27,14 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 <blockquote>
   <p>
  
-<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/2aa787cf_nohash_0.png" height="200" width="200" ></a>
 
-<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/2aa787cf_nohash_1.png" height="200" width="200" ></a>
+<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/2aa787cf_nohash_0.png" align="left" height="200" width="200" ></a>
 
-<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/3f170018_nohash_0.png" height="200" width="200" ></a>
+<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/2aa787cf_nohash_1.png" align="left" height="200" width="200" ></a>
 
-<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/3f2b358d_nohash_4.png" height="200" width="200" ></a>
+<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/3f170018_nohash_0.png" align="left" height="200" width="200" ></a>
+
+<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/3f2b358d_nohash_4.png" align="left" height="200" width="200" ></a>
   </p>
   <p></p>
 </blockquote>
