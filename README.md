@@ -15,7 +15,7 @@ N.USP: 10423932
 </blockquote>
 ______________________________________________________________________________
 
-Imagens: 
+# <h2> Imagens: 
 
  <blockquote>
   <p>
@@ -25,7 +25,8 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
   <p></p>
 </blockquote>
 
-![Espectrograma gerado a partir do audio 0](/imagens/2aa787cf_nohash_0.png"
+
+Espectroma: ![Espectrograma gerado a partir do audio 0](/imagens/2aa787cf_nohash_0.png")
 
 
 ![Espectrograma gerado a partir do audio 0] width="200" height="200" (/imagens/2aa787cf_nohash_1.png"
@@ -47,7 +48,7 @@ Imagens de database Corel-1k
 
 ______________________________________________________________________________
 
-Etapas:
+# <h2> Etapas:
 
 <blockquote>
   <p>
