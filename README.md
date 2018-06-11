@@ -16,10 +16,10 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 
 
 
-![Espectrograma gerado a partir do audio 0](/images/2aa787cf_nohash_0.png)
+![Espectrograma gerado a partir do audio 0](/imagens/2aa787cf_nohash_0.png)
 Format: ![Alt Text](url)
 
-![Espectrograma gerado a partir do audio 1](/images/2aa787cf_nohash_1.png)
+![Espectrograma gerado a partir do audio 1](/imagens/2aa787cf_nohash_1.png)
 Format: ![Alt Text](url)
 
 
