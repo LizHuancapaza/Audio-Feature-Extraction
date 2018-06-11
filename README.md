@@ -1,5 +1,5 @@
 ﻿
-# This is an <h1> tag Projeto para Processamento de imagem.
+# <h1> Projeto para Processamento de imagem.
 ______________________________________________________________________________
 
 Nome: Liz Huancapaza Hilasaca
@@ -41,7 +41,9 @@ Etapas:
 
 2. Empregar métodos descritores de cor e textura.
     * Descritores de cor
-          * Border/Interior Classification (BIC)
+    
+        * Border/Interior Classification (BIC)
     * Descritores de textura
-          * Co-ocurrence Matrix
+    
+        * Co-ocurrence Matrix
 3. Finalmente para medir a qualidade empregarei a acurácia de classificação.
