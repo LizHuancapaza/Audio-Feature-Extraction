@@ -1,6 +1,5 @@
 ﻿
 # <h1> Projeto para Processamento de imagem
-______________________________________________________________________________
 
 Nome: Liz Huancapaza Hilasaca
 
@@ -13,21 +12,21 @@ N.USP: 10423932
   </p>
   <p></p>
 </blockquote>
-______________________________________________________________________________
+
 
 # <h2> Imagens: 
 
  <blockquote>
   <p>
-Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um conjunto de arquivos de áudio .wav, cada um contendo uma única palavra falada em inglês. Estas palavras são faladas por uma variedade de falantes diferentes. O conjunto de dados tem aproximadamente 65000 audios, organizados em pastas por palavras: "Yes", "No", "Up", "Down", "Left", "Right", "On", "Off", "Stop", "Go", "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", and "Nine". Dataset [link aqui!].
+Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um conjunto de arquivos de áudio .wav, cada um contendo uma única palavra falada em inglês. Estas palavras são faladas por uma variedade de falantes diferentes. O conjunto de dados tem aproximadamente 65000 audios, organizados em pastas por palavras: "Yes", "No", "Up", "Down", "Left", "Right", "On", "Off", "Stop", "Go", "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", and "Nine". Dataset [link aqui].
 
-[link aqui!]: http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
+[link aqui]: http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
 
   </p>
   <p></p>
 </blockquote>
 
-[link aqui!]: http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
+[link aqui]: http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
 
 
 <a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/2aa787cf_nohash_0.png" align="left" height="100" width="100" ></a>
@@ -45,11 +44,6 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 
 
 
-
-
-Imagens de database Corel-1k
-
-______________________________________________________________________________
 
 # <h2> Etapas:
 
