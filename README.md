@@ -33,6 +33,11 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 
 <a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/2aa787cf_nohash_1.png" align="left" height="200" width="200" ></a>
 
+<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/3f170018_nohash_0.png" align="left" height="200" width="200" ></a>
+
+<a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/3f170018_nohash_1.png" align="left" height="200" width="200" ></a>
+
+
 
   </p>
   <p></p>
