@@ -22,12 +22,12 @@ Imagens de Espectrogramas no formato RGB gerados apartir dos áudios. Este é um
 
 
 ![Espectrograma gerado a partir do audio 0](/imagens/2aa787cf_nohash_0.png"
-width="200" height="400"
+width="200" height="200"
 
-![Espectrograma gerado a partir do audio 1](/imagens/2aa787cf_nohash_1.png)
-Format: ![Alt Text](url)
+![Espectrograma gerado a partir do audio 0](/imagens/2aa787cf_nohash_1.png"
+width="200" height="200"
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 
 
 
