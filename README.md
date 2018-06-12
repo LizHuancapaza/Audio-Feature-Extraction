@@ -6,7 +6,8 @@ Nome: Liz Huancapaza Hilasaca
 N.USP: 10423932
 
 # <h2> Projeto: Extração de caracterı́sticas para classificação de áudios.
-  
+
+
     O objetivo deste projeto é implementar, comparar e conhecer as vantagens dos métodos existentes para descrever características baseadas em cor e textura para processar imagens geradas desde arquivos de audio .wav.
 
  
@@ -30,6 +31,7 @@ Dataset [link aqui!](http://download.tensorflow.org/data/speech_commands_v0.01.t
 
 <a href="url"><img src="https://github.com/LizHuancapaza/Audio-Feature-Extraction/blob/master/imagens/3f2b358d_nohash_4.png" align="left" height="200" width="200" ></a>
 
+<a ></a>
 
 
 
