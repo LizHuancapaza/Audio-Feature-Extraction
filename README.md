@@ -8,7 +8,7 @@ N.USP: 10423932
 # <h2> Projeto: Extração de caracterı́sticas para classificação de áudios.
 
 
-    O objetivo deste projeto é implementar, comparar e conhecer as vantagens dos métodos existentes para descrever características baseadas em cor e textura para processar imagens geradas desde arquivos de audio .wav.
+O objetivo deste projeto é implementar, comparar e conhecer as vantagens dos métodos existentes para descrever características baseadas em cor e textura para processar imagens geradas desde arquivos de audio .wav.
 
  
 # <h2> Imagens:
