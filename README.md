@@ -1,9 +1,6 @@
 ﻿
 # <h1> Projeto para Processamento de imagem
 
-Nome: Liz Huancapaza Hilasaca
-
-N.USP: 10423932
 
 # <h2> Projeto: Extração de caracterı́sticas para classificação de áudios.
 
